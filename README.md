@@ -21,7 +21,7 @@ The data was trained using a Random Forest Regressor model through Jupyter Noteb
 - **Machine Learning Model**: Built a prediction model using the Random Forest classification algorithm, achieving almost 85% accuracy in predicting costs.
 
 ## Additional Notes
-This project was done as a group, therefore it is forked from another github profile
+This project was done as a group, therefore it is forked from another @mythrikulkarni github repo
 
 ## Installation and Setup
 
