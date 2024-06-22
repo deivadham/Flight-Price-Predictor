@@ -21,7 +21,7 @@ The data was trained using a Random Forest Regressor model through Jupyter Noteb
 - **Machine Learning Model**: Built a prediction model using the Random Forest classification algorithm, achieving almost 85% accuracy in predicting costs.
 
 ## Additional Notes
-This project was done as a group, therefore it is forked from another @mythrikulkarni github repo
+This project was done as a group, therefore it is forked from another @mythrikulkarni github repository. To view the original repository go to: https://github.com/mythrikulkarni/Flight-Price-Predictor
 
 ## Installation and Setup
 
